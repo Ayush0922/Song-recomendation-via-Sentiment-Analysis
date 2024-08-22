@@ -17,11 +17,8 @@ Requirements
     Spotipy
 
 Installation:
-Bash
 
-pip install opencv-python deepface spotipy
-
-Use code with caution.
+Read How-to.txt to get the full installation support. xoxo.
 
 Spotify API Credentials:
 

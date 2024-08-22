@@ -54,9 +54,7 @@ Running the Project
     Save the code as main.py.
     Open a terminal in the project directory.
     Run the script:
-
-
-python3 main.py
+    python3 main.py
 
 Use code with caution.
 
